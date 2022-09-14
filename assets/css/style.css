@@ -1175,6 +1175,8 @@ section {
 .team .member {
   margin-bottom: 20px;
   overflow: hidden;
+  margin-right: 50px;
+  margin-left: 50px;
 }
 
 .team .member .member-img {
